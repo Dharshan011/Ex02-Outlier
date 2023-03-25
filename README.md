@@ -131,8 +131,13 @@ sns.boxplot(x="height",data=df5)
 ## DATASET BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT)
 ![Screenshot 2023-03-25 224316](https://user-images.githubusercontent.com/113497491/227732177-36b99c50-a556-4602-a2ad-42881de672c4.png)
 ## FOR HEIGHT COLUMN WITH OUTLIERS
+![Screenshot 2023-03-25 225350](https://user-images.githubusercontent.com/113497491/227732373-551ac354-a782-4b40-a68a-c0750d1a5bca.png)
+![Screenshot 2023-03-25 225413](https://user-images.githubusercontent.com/113497491/227732390-1d8d48d0-e0fa-4ff6-a3ae-3ed86a641fb0.png)
+## Shape
+![Screenshot 2023-03-25 225754](https://user-images.githubusercontent.com/113497491/227732449-cd41f9e3-20c6-45ab-8112-35c9e4ff6354.png)
+## AFTER REMOVING OUTLIERS BOXPLOT FOR HEIGHT
 
-
+![Screenshot 2023-03-25 225804](https://user-images.githubusercontent.com/113497491/227732474-9dc66d46-56d2-4d17-81be-42398281af25.png)
 
 
 
